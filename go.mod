@@ -9,7 +9,7 @@ require (
 	github.com/fiatjaf/go-lnurl v1.3.1
 	github.com/localtunnel/go-localtunnel v0.0.0-20170326223115-8a804488f275
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
-	github.com/pkg/browser v0.0.0-20210621091255-c198bc921a84
+	github.com/pkg/browser v0.0.0-20210706143420-7d21f8c997e2
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
 	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli/v2 v2.3.0
