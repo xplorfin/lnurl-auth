@@ -35,8 +35,8 @@ github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/decred/dcrd/lru v1.0.0/go.mod h1:mxKOwFd7lFjN2GZYsiz/ecgqR6kkYAl+0pz0tEMk218=
 github.com/fasthttp/router v1.4.0 h1:sWMk0q7M6Qj73eLIolh/934mKTNZIWDrEPDhZUF1pAg=
 github.com/fasthttp/router v1.4.0/go.mod h1:uTM3xaLINfEk/uqId8rv8tzwr47+HZuxopzUWfwD4qg=
-github.com/fiatjaf/go-lnurl v1.3.1 h1:9Qn4n1ZyzTMW/YuVX2Wr9cE+LEAzpE1hrCbxVK/yBKE=
-github.com/fiatjaf/go-lnurl v1.3.1/go.mod h1:BqA8WXAOzntF7Z3EkVO7DfP4y5rhWUmJ/Bu9KBke+rs=
+github.com/fiatjaf/go-lnurl v1.4.0 h1:hVFEEJD2A9D6ojEcqLyD54CM2ZJ9Tzs2jNKw/GNq52A=
+github.com/fiatjaf/go-lnurl v1.4.0/go.mod h1:BqA8WXAOzntF7Z3EkVO7DfP4y5rhWUmJ/Bu9KBke+rs=
 github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMoQvtojpjFo=
 github.com/fsnotify/fsnotify v1.4.9 h1:hsms1Qyu0jgnwNXIxa+/V/PDsU6CfLf6CNO8H7IWoS4=
 github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4IgpuI1SZQ=
