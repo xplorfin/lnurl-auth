@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/brianvoe/gofakeit/v5 v5.11.2
-	github.com/btcsuite/btcd v0.21.0-beta
+	github.com/btcsuite/btcd v0.24.2
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/fiatjaf/go-lnurl v1.3.1
 	github.com/localtunnel/go-localtunnel v0.0.0-20170326223115-8a804488f275
